@@ -1,5 +1,5 @@
 # my first project
 
-I love potatoes.
+I love potato.
 
-I also love tomatoes.
+I also love tomato.
